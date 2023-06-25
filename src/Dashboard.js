@@ -234,7 +234,7 @@ function Dashboard() {
                                                     </div>
                                                 </div>
                                                 <div>
-                                                    <div className="small text-gray-500">December 12, 2019</div>
+                                                    <div className="small text-gray-500">june 12, 2023</div>
                                                     <span className="font-weight-bold">A new monthly report is ready to download!</span>
                                                 </div>
                                             </a>
@@ -245,7 +245,7 @@ function Dashboard() {
                                                     </div>
                                                 </div>
                                                 <div>
-                                                    <div className="small text-gray-500">December 7, 2019</div>
+                                                    <div className="small text-gray-500">December 7, 2023</div>
                                                     $290.29 has been deposited into your account!
                                                 </div>
                                             </a>
@@ -700,7 +700,7 @@ function Dashboard() {
                         <footer className="sticky-footer bg-white">
                             <div className="container my-auto">
                                 <div className="copyright text-center my-auto">
-                                    <span>Copyright &copy; Your Website 2021</span>
+                                    <span>Copyright &copy; Your Website 2023</span>
                                 </div>
                             </div>
                         </footer>
